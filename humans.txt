@@ -1,0 +1,7 @@
+# TEAM
+    Daniel Chae —- @SirChae —- Human -- Earth
+
+# TECHNOLOGY COLOPHON
+    HTML5, CSS3, jQuery, SASS
+
+# humanstxt.org/
